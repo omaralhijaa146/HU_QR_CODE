@@ -5,5 +5,5 @@ by scanning generated class QR Code and fetching student location.
 
 Application UI
 
-![](/home/omar/StudioProjects/grad_proj_final/assets/images/Screenshot from 2023-05-20 16-25-20.png)
+<img src="/home/omar/StudioProjects/grad_proj_final/assets/images/Screenshot from 2023-05-20 16-25-20.png"/>
 
