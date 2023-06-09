@@ -1,16 +1,10 @@
-# grad_proj_final
+# HU QR CODE
 
-A new Flutter project.
+HU QR CODE is project developed to automate the process of taking attendance
+by scanning generated class QR Code and fetching student location.
 
-## Getting Started
+Application UI
 
-This project is a starting point for a Flutter application.
+![](/home/omar/Pictures/Screenshots/Screenshot from 2023-05-20 16-25-20.png)
+![](/home/omar/Pictures/Screenshots/Screenshot from 2023-05-20 16-25-51.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
