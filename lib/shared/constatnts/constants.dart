@@ -6,7 +6,6 @@ import 'package:graduation_project/shared/network/local/cache_helper.dart';
 var uId;
 var token;
 var userRole;
-String mapsApiKey="AIzaSyByFNCSIuggDSbuLtfYc_QDPTJp1euX5W0";
 LocationPermission? permission;
 LocationSettings? locationSettings;
 void signOut(context){
